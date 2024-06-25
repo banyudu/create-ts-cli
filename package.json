@@ -1,6 +1,6 @@
 {
   "name": "@banyudu/create-ts-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Typescript command line utility starter",
   "type": "module",
   "types": "lib/index.d.ts",
